@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Learn JavaScript",
+    "author": "Ali",
+    "price": 500
+  },
+  {
+    "id": 3,
+    "title": "Web Development",
+    "author": "Ali Khan",
+    "price": 2000
+  }
+]
